@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LEEJIHOON\\Desktop\\unity\\Myproject1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63C1102F-87F2-E2D1-0E76-5A4DCE51BD69}|Assembly-CSharp.csproj|C:\\Users\\LEEJIHOON\\Desktop\\unity\\Myproject1\\assets\\5.scripts\\monsterspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C1102F-87F2-E2D1-0E76-5A4DCE51BD69}|Assembly-CSharp.csproj|solutionrelative:assets\\5.scripts\\monsterspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C1102F-87F2-E2D1-0E76-5A4DCE51BD69}|Assembly-CSharp.csproj|c:\\users\\leejihoon\\desktop\\unity\\myproject1\\assets\\5.scripts\\infinitescroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C1102F-87F2-E2D1-0E76-5A4DCE51BD69}|Assembly-CSharp.csproj|solutionrelative:assets\\5.scripts\\infinitescroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63C1102F-87F2-E2D1-0E76-5A4DCE51BD69}|Assembly-CSharp.csproj|C:\\Users\\LEEJIHOON\\Desktop\\unity\\Myproject1\\assets\\5.scripts\\monstercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C1102F-87F2-E2D1-0E76-5A4DCE51BD69}|Assembly-CSharp.csproj|solutionrelative:assets\\5.scripts\\monstercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InfiniteScroll.cs",
+              "DocumentMoniker": "C:\\Users\\LEEJIHOON\\Desktop\\unity\\Myproject1\\Assets\\5.Scripts\\InfiniteScroll.cs",
+              "RelativeDocumentMoniker": "Assets\\5.Scripts\\InfiniteScroll.cs",
+              "ToolTip": "C:\\Users\\LEEJIHOON\\Desktop\\unity\\Myproject1\\Assets\\5.Scripts\\InfiniteScroll.cs",
+              "RelativeToolTip": "Assets\\5.Scripts\\InfiniteScroll.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T05:08:47.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MonsterController.cs",
+              "DocumentMoniker": "C:\\Users\\LEEJIHOON\\Desktop\\unity\\Myproject1\\Assets\\5.Scripts\\MonsterController.cs",
+              "RelativeDocumentMoniker": "Assets\\5.Scripts\\MonsterController.cs",
+              "ToolTip": "C:\\Users\\LEEJIHOON\\Desktop\\unity\\Myproject1\\Assets\\5.Scripts\\MonsterController.cs",
+              "RelativeToolTip": "Assets\\5.Scripts\\MonsterController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:38:35.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MonsterSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\LEEJIHOON\\Desktop\\unity\\Myproject1\\Assets\\5.Scripts\\MonsterSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\5.Scripts\\MonsterSpawner.cs",
+              "ToolTip": "C:\\Users\\LEEJIHOON\\Desktop\\unity\\Myproject1\\Assets\\5.Scripts\\MonsterSpawner.cs",
+              "RelativeToolTip": "Assets\\5.Scripts\\MonsterSpawner.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:47:45.058Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
